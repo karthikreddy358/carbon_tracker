@@ -21,8 +21,10 @@ A web-based Carbon Tracker application that helps users monitor and reduce their
 - **Database**: MySQL or Firebase (Optional - if storing user history)
 
 ## 📸 Screenshots
+![111](https://github.com/user-attachments/assets/273219f6-97da-47cb-a916-9f70f91349cf)
 
-> (Include screenshots of HomePage, Tracker, Result Page, and PDF export here)
+![222](https://github.com/user-attachments/assets/9ef28582-b116-44f0-b5d5-f93d525385f5)
+
 
 ## 📦 Installation
 
@@ -38,7 +40,6 @@ npm install
 
 # 4. Run the development server
 npm start
-![111](https://github.com/user-attachments/assets/f20b4453-8c0d-46b7-91a8-4a5075fa1ac7)![222](https://github.com/user-attachments/assets/5c7387ed-aa51-4350-9b82-09fcb5686b30)
 
 
 
