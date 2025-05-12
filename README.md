@@ -30,7 +30,7 @@ A web-based Carbon Tracker application that helps users monitor and reduce their
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/carbon-tracker.git
+git clone https://github.com/karthikreddy358/carbon-tracker.git
 
 # 2. Navigate to the project directory
 cd carbon-tracker
