@@ -9,7 +9,7 @@ A web-based Carbon Tracker application that helps users monitor and reduce their
 - 🎯 **Goal Tracking** – Set personal monthly carbon usage goals and monitor progress dynamically.
 - 📈 **Historical Emission Trends** – Line chart visualization of your carbon footprint over time.
 - 📥 **PDF Report Generation** – Download a report of your emission data, including bar and line graphs.
-- 📤 **CSV Export Support** – Export raw emission data in CSV format..
+- 📤 **CSV Export Support** – Export raw emission data in CSV format.
 - 🎨 **Responsive UI** – Styled with Tailwind CSS, featuring animations and a clean design.
 
 ## 🛠️ Tech Stack
